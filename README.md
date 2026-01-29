@@ -27,6 +27,6 @@ a Tetris-like developed in Lua
 
 <br><br>
 
-# What to do if you don't like iot or have comments?
+# What to do if you don't like it or have comments?
 <br>
 Develop your own game and send me the link.
