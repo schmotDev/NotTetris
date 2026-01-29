@@ -7,7 +7,10 @@ a Tetris-like developed in Lua
 # How to play
 <br>
 
-* Download and run the `NotTetris_installer.exe` executable file from the folder `.\installer` 
+* Download and run the `NotTetris_installer.exe` executable file from the folder `.\installer`
+* Windows Defender will complain and warn yopu that this file is not from a known publisher
+*     click on "more information"
+*     select "Execute anyway"
 * Select your options
 * Run the `Tetris.exe` file
 
