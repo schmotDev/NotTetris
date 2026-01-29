@@ -24,3 +24,9 @@ a Tetris-like developed in Lua
 * Use the Down Arrow-key to move down faster
 
 * Sound volume can be controlled with **+** and **-** keys
+
+<br><br>
+
+# What to do if you don't like iot or have comments?
+<br>
+Develop your own game and send me the link.
