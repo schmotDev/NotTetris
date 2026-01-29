@@ -19,7 +19,7 @@ a Tetris-like developed in Lua
 # Commands
 <br>   
 
-* use the Right and Left Arrow-keys to move the Tetrominoes
+* Use the Right and Left Arrow-keys to move the Tetrominoes
 * Use the Up Arrow-key to rotate the current Tetromino
 * Use the Down Arrow-key to move down faster
 
